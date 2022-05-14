@@ -1,0 +1,5 @@
+*.pyc
+sftp-config.json
+.DS_Store
+venv
+.vscode

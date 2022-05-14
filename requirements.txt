@@ -1,0 +1,6 @@
+BeautifulSoup4
+cjklib3
+gevent
+pandas
+pypinyin
+requests
